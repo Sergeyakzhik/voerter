@@ -2,10 +2,7 @@ import React from 'react';
 
 import Card from './Card';
 
-import cards from './cardsList';
-
-const CardList = () => {
-    
+const CardList = ({ cards }) => {    
     return (
         <div className='card-list'>
             {cards.map(item => (
