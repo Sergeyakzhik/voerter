@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/woerter/static/css/main.2350cbd7.chunk.css",
-    "main.js": "/woerter/static/js/main.5e80f435.chunk.js",
-    "main.js.map": "/woerter/static/js/main.5e80f435.chunk.js.map",
+    "main.css": "/woerter/static/css/main.36258483.chunk.css",
+    "main.js": "/woerter/static/js/main.50484b8f.chunk.js",
+    "main.js.map": "/woerter/static/js/main.50484b8f.chunk.js.map",
     "runtime~main.js": "/woerter/static/js/runtime~main.5118c8e8.js",
     "runtime~main.js.map": "/woerter/static/js/runtime~main.5118c8e8.js.map",
-    "static/js/2.ea3d7285.chunk.js": "/woerter/static/js/2.ea3d7285.chunk.js",
-    "static/js/2.ea3d7285.chunk.js.map": "/woerter/static/js/2.ea3d7285.chunk.js.map",
+    "static/js/2.eb956be4.chunk.js": "/woerter/static/js/2.eb956be4.chunk.js",
+    "static/js/2.eb956be4.chunk.js.map": "/woerter/static/js/2.eb956be4.chunk.js.map",
     "index.html": "/woerter/index.html",
-    "precache-manifest.5f17a4bf4d3ef21a51c3085001853f1e.js": "/woerter/precache-manifest.5f17a4bf4d3ef21a51c3085001853f1e.js",
+    "precache-manifest.87466a889a657a973784745102d13ec6.js": "/woerter/precache-manifest.87466a889a657a973784745102d13ec6.js",
     "service-worker.js": "/woerter/service-worker.js",
-    "static/css/main.2350cbd7.chunk.css.map": "/woerter/static/css/main.2350cbd7.chunk.css.map",
-    "static/media/App.css": "/woerter/static/media/ocean.1c382cff.jpg"
+    "static/css/main.36258483.chunk.css.map": "/woerter/static/css/main.36258483.chunk.css.map"
   }
 }
