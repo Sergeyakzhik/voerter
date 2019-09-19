@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/woerter/static/css/main.eddf713d.chunk.css",
+    "main.css": "/woerter/static/css/main.2350cbd7.chunk.css",
     "main.js": "/woerter/static/js/main.5e80f435.chunk.js",
     "main.js.map": "/woerter/static/js/main.5e80f435.chunk.js.map",
     "runtime~main.js": "/woerter/static/js/runtime~main.5118c8e8.js",
@@ -8,8 +8,9 @@
     "static/js/2.ea3d7285.chunk.js": "/woerter/static/js/2.ea3d7285.chunk.js",
     "static/js/2.ea3d7285.chunk.js.map": "/woerter/static/js/2.ea3d7285.chunk.js.map",
     "index.html": "/woerter/index.html",
-    "precache-manifest.44e7197e07b84a9985f3082aed59558b.js": "/woerter/precache-manifest.44e7197e07b84a9985f3082aed59558b.js",
+    "precache-manifest.5f17a4bf4d3ef21a51c3085001853f1e.js": "/woerter/precache-manifest.5f17a4bf4d3ef21a51c3085001853f1e.js",
     "service-worker.js": "/woerter/service-worker.js",
-    "static/css/main.eddf713d.chunk.css.map": "/woerter/static/css/main.eddf713d.chunk.css.map"
+    "static/css/main.2350cbd7.chunk.css.map": "/woerter/static/css/main.2350cbd7.chunk.css.map",
+    "static/media/App.css": "/woerter/static/media/ocean.1c382cff.jpg"
   }
 }
